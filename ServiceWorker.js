@@ -1,9 +1,9 @@
 const cacheName = "Nicole-RocketCar-0.1";
 const contentToCache = [
-    "Build/RocketCar_WebBuild_0.5.loader.js",
-    "Build/RocketCar_WebBuild_0.5.framework.js.unityweb",
-    "Build/RocketCar_WebBuild_0.5.data.unityweb",
-    "Build/RocketCar_WebBuild_0.5.wasm.unityweb",
+    "Build/RocketRace_WebBuild_0.6.loader.js",
+    "Build/RocketRace_WebBuild_0.6.framework.js.unityweb",
+    "Build/RocketRace_WebBuild_0.6.data.unityweb",
+    "Build/RocketRace_WebBuild_0.6.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
